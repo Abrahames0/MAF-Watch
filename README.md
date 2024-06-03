@@ -47,6 +47,7 @@ Proyecto de Dispositivo Inteligente.
 |5|Mini humidificador USB|Mini humidificador USB, Kits de bricolaje, fabricante de niebla y controlador|![image](./Imagenes/Mini-humidificador.jpg)|2|$27,77 MXN|
 |6|ESP32|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|![image](./Imagenes/Esp32.jpg)|2|$250.00 MXN|
 |7|Sensor de oximetría|Módulo de Sensor de oximetría de frecuencia cardíaca, Sensor de ritmo cardíaco, consumo de energía ultrabajo. |![image](./Imagenes/Modulo-de-Sensor.jpg)|1|$24,67|
+| 8 |Led Rgb |Diodos LED RGB para Arduino, lámparas de bombilla de circuito PCB. |![image](./Imagenes/led.png)|1|$54,71 |
 
 ## Épicas del proyecto (Mínimo debe de haber una épica por integrante del equipo).
 - <p align="justify"> Monitoreo y adaptación ambiental: Esta épica se centra en el uso continuo de sensores integrados para medir factores ambientales como luz UV, temperatura, ruido y humedad. Con base en esta información, el sistema aconsejará al usuario sobre las medidas de protección a tomar, como la aplicación de bloqueador solar o cambios en la configuración del ambiente. Además, activará automáticamente funciones como la protección contra rayos UV o la humidificación para mantener un entorno óptimo.
@@ -80,7 +81,9 @@ Prototipo para diseño en 3D para imprecion.
 ![image](./Imagenes/Arquitectura.png)
 
 ## Circuito diseñado.
-![image](./Imagenes/Oxygen.png)
+![image](./Imagenes/frizing.jpg)
+![image](./Imagenes/frizingg.jpg)
+![image](./Imagenes/frizinggg.jpg)
 
 ## Librerias Utilizadas.
 - Wire.h
