@@ -54,6 +54,7 @@ Implementar un sistema de análisis del ambiente que monitorice condiciones como
 ![image](./Imagenes/Clickup.png)
 
 ## Prototipo en dibujo
+Prototipo para diseño en 3D 
 ![image](./Imagenes/protoripo.png)
 
 ## Fritzing
