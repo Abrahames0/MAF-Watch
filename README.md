@@ -54,6 +54,7 @@ Implementar un sistema de análisis del ambiente que monitorice condiciones como
 ![image](./Imagenes/Clickup.png)
 
 ## Prototipo en dibujo
+![image](./Imagenes/protoripo.png)
 
 ## Fritzing
 
