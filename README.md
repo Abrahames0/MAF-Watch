@@ -6,11 +6,20 @@ Proyecto de Dispositivo Inteligente
 - Mario Alberto Rangel Márquez.
 - Fernando Arvizu Sotelo.
 
-## Objetivo general.
+## Vision del proyecto.
+La visión de este producto consiste en brindar para las personas que desean mejorar la calidad de su ambiente de descanso y monitorear su salud en tiempo real, nuestro dispositivo inteligente de monitoreo de ambiente y salud ofrece una solución perfecta. Este sistema integrado de sensores mide luz, temperatura y ritmo cardiaco, y activa automáticamente mecanismos para optimizar el entorno. A diferencia de otros dispositivos que solo monitorean una o dos condiciones ambientales sin capacidad de intervención automática, nuestro producto no solo realiza un monitoreo exhaustivo de múltiples parámetros ambientales y de salud en tiempo real, sino que también toma medidas proactivas para mejorar activamente la calidad del sueño del usuario, asegurando un descanso verdaderamente reparador y una salud óptima.
 
+## Objetivo general.
+Desarrollar un reloj inteligente equipado con tecnología avanzada para el monitoreo y análisis en tiempo real de las condiciones ambientales y vitales del usuario. Este dispositivo incluirá funcionalidades personalizables, como mini humidificadores integrados para refrescar y aplicar lociones según las necesidades del usuario. Mediante el uso de sensores para la luz, temperatura, ruido y ritmo cardíaco, el reloj ajustará automáticamente la iluminación, la aplicación de lociones y otros mecanismos, como la protección UV, para mejorar el bienestar y la salud del usuario en cualquier ambiente.
 
 ### Objetivos específicos.
-Implementar un sistema de análisis del ambiente que monitorice condiciones como luz, ruido, temperatura y ritmo cardiaco, en base a los resultados el sistema puede mejorar la calidad del ambiente y activar automáticamente mecanismos como un ventilador o música cuando las condiciones puedan llegar a perjudicar la calidad del sueño.
+1. Diseñar y desarrollar un sistema integrado de sensores para medir con precisión la luz ambiental, temperatura, niveles de ruido, y ritmo cardíaco, proporcionando una base de datos confiable para el análisis del bienestar del usuario.
+
+2. Implementar funcionalidades automáticas de confort ambiental utilizando mini humidificadores integrados en el reloj para aplicar agua y lociones personalizadas. Esto se activará según los parámetros ambientales detectados o preferencias preestablecidas del usuario, mejorando su experiencia en diferentes condiciones.
+
+3. Desarrollar un algoritmo de respuesta inteligente que analice los datos recolectados por los sensores y active automáticamente mecanismos de protección, como filtros UV y ajustes de humedad, para mantener un entorno óptimo para la salud y confort del usuario.
+
+4. Crear una interfaz de usuario intuitiva en la pantalla táctil del reloj que permita a los usuarios visualizar y gestionar las mediciones en tiempo real, así como ajustar manualmente las configuraciones del dispositivo según sus necesidades personales.
 
 
 ## Tabla de Software utilizado.
@@ -19,7 +28,7 @@ Implementar un sistema de análisis del ambiente que monitorice condiciones como
 | 1 |  sqlite  | 3.46.0 | SQL |
 | 2 | Arduino IDE  | 4.1.4 |  IDE |
 | 3 | Node-Red | 3.2.9 | MQTT |
-| 4 |wokwi | web | IDE|
+| 4 | Wokwi | web | IDE|
 
 ## Tabla con el hardware utilizado (El costo de cada componente es al dia de 2-3 de junio del 2024).
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
@@ -33,11 +42,11 @@ Implementar un sistema de análisis del ambiente que monitorice condiciones como
 |7|Sensor de oximetría|Módulo de Sensor de oximetría de frecuencia cardíaca, Sensor de ritmo cardíaco, consumo de energía ultrabajo. |![image](./Imagenes/Modulo-de-Sensor.jpg)|1|$24,67|
 
 ## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo).
--Monitorear las condiciones ambientales: esta épica se enfoca en el monitoreo de las condicioens ambientales con el sensor de rayos UV para asi aconsegar al usuario de los altos niveles y recomendarle no salir o usar bloqueador solar.
+- Monitoreo y adaptación ambiental: Esta épica se centra en el uso continuo de sensores integrados para medir factores ambientales como luz UV, temperatura, ruido y humedad. Con base en esta información, el sistema aconsejará al usuario sobre las medidas de protección a tomar, como la aplicación de bloqueador solar o cambios en la configuración del ambiente. Además, activará automáticamente funciones como la protección contra rayos UV o la humidificación para mantener un entorno óptimo.
 
--Control de calidad del usuario: esta épica se enfoca en el control automático de la calidad del usuario para mantenerlo presentable o referscado, dependiendo de la situacion ya con algunos sensores puede rocearse agua o alguna locion.
+- Gestión personalizada del confort: Esta épica aborda el ajuste automático de las condiciones del entorno personal del usuario mediante la activación de mini humidificadores para rociar agua o lociones específicas. El sistema utilizará algoritmos para determinar el momento óptimo para activar estos mecanismos basándose en los datos recopilados por los sensores y las preferencias personales del usuario, asegurando su confort y presentación en cualquier situación.
 
--Almacenamiento y analsis de datos: esta épica se enfoca en el almacenamiento y analis de la información recopilada en tiempo real por medio de los sensores. El objetivo es enviar los datos medidos por los sensores a una base de datos y permitir su consumo para el análisis de los datos para entregarlos a forma de resumen al usuario.
+- Análisis y síntesis de datos para bienestar personalizado: Se enfoca en el almacenamiento avanzado y análisis de los datos ambientales y vitales recolectados por los sensores del dispositivo. Esta épica implica desarrollar soluciones para procesar y analizar datos en tiempo real, almacenarlos de manera segura y proporcionar al usuario resúmenes y recomendaciones personalizadas a través de una aplicación o dashboard integrado. El objetivo es permitir al usuario entender mejor su entorno y sus propias respuestas fisiológicas para tomar decisiones informadas sobre su salud y bienestar.
 
 ## Tabla de historias de usuario.
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
