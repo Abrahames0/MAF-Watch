@@ -30,10 +30,12 @@ Proyecto de Dispositivo Inteligente.
 ## Tabla de Software utilizado.
 | Id | Software | Versión | Tipo |
 |----|----------|---------|------|
-| 1 |  sqlite  | 3.46.0 | SQL |
+| 1 |  DynamoDb  | WEB | SQL |
 | 2 | Arduino IDE  | 4.1.4 |  IDE |
 | 3 | Node-Red | 3.2.9 | MQTT |
-| 4 | Wokwi | web | IDE|
+| 4 | AWS | web | Micro services |
+| 5 |React-Native | 0.74.1 | framework | 
+
 
 ## Tabla con el hardware utilizado (El costo de cada componente es al día de 2-3 de junio del 2024).
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
