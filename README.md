@@ -7,10 +7,14 @@ Proyecto de Dispositivo Inteligente
 - Fernando Arvizu Sotelo.
 
 ## Vision del proyecto.
+<p align="justify">
 La visión de este producto consiste en brindar para las personas que desean mejorar la calidad de su ambiente de descanso y monitorear su salud en tiempo real, nuestro dispositivo inteligente de monitoreo de ambiente y salud ofrece una solución perfecta. Este sistema integrado de sensores mide luz, temperatura y ritmo cardiaco, y activa automáticamente mecanismos para optimizar el entorno. A diferencia de otros dispositivos que solo monitorean una o dos condiciones ambientales sin capacidad de intervención automática, nuestro producto no solo realiza un monitoreo exhaustivo de múltiples parámetros ambientales y de salud en tiempo real, sino que también toma medidas proactivas para mejorar activamente la calidad del sueño del usuario, asegurando un descanso verdaderamente reparador y una salud óptima.
+<p>
 
 ## Objetivo general.
+<p align="justify">
 Desarrollar un reloj inteligente equipado con tecnología avanzada para el monitoreo y análisis en tiempo real de las condiciones ambientales y vitales del usuario. Este dispositivo incluirá funcionalidades personalizables, como mini humidificadores integrados para refrescar y aplicar lociones según las necesidades del usuario. Mediante el uso de sensores para la luz, temperatura, ruido y ritmo cardíaco, el reloj ajustará automáticamente la iluminación, la aplicación de lociones y otros mecanismos, como la protección UV, para mejorar el bienestar y la salud del usuario en cualquier ambiente.
+<p>
 
 ### Objetivos específicos.
 1. Diseñar y desarrollar un sistema integrado de sensores para medir con precisión la luz ambiental, temperatura, niveles de ruido, y ritmo cardíaco, proporcionando una base de datos confiable para el análisis del bienestar del usuario.
@@ -63,10 +67,11 @@ Desarrollar un reloj inteligente equipado con tecnología avanzada para el monit
 ![image](./Imagenes/Clickup.png)
 
 ## Prototipo en dibujo
-Prototipo para diseño en 3D 
+Prototipo para diseño en 3D para imprecion. 
 ![image](./Imagenes/protoripo.png)
 
-## Fritzing
+## Circuito diseñado.
+![image](./Imagenes/Oxygen.png)
 
 ## Librerias Utilizadas.
 - Wire.h
@@ -77,3 +82,8 @@ Prototipo para diseño en 3D
 
 ## Dashbord de Node-Red.
 ![image](./Imagenes/Node-Red.jpg)
+
+## Resultado.
+<p align="justify">
+Los resultados obtenidos hasta el momento han sido satisfactorios. En los primeros tres requisitos, o en el primer Split, se han cumplido las expectativas previstas. Dentro de los primeros dos requisitos se cumplio la funcionalidad de alertar en caso de que el ritmo cardiaco no sea normal en el usaurio.
+<p>
