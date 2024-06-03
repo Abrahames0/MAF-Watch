@@ -30,7 +30,7 @@ Proyecto de Dispositivo Inteligente.
 ## Tabla de Software utilizado.
 | Id | Software | Versión | Tipo |
 |----|----------|---------|------|
-| 1 |  DynamoDb  | WEB | SQL |
+| 1 |  DynamoDb  | WEB | NoSQL |
 | 2 | Arduino IDE  | 4.1.4 |  IDE |
 | 3 | Node-Red | 3.2.9 | MQTT |
 | 4 | AWS | web | Micro services |
