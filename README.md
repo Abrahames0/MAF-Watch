@@ -63,7 +63,7 @@ Desarrollar un reloj inteligente equipado con tecnología avanzada para el monit
 |  6  | Como usuario quiero saber la duración de mi sueño para saber si dormi las horas necesarias.| 2 | 3 Dias | Se obtiene información fiel en tiempo real através del sensor.| Fernando Arvizu Sotelo. | 
 |  7  | Como usuario quiero que el dispositivo sea comodo de usar para que no me moleste al dormir.| 3 | 3 Dias | Se obtiene información fiel en tiempo real através del sensor.| Fernando Arvizu Sotelo. | 
 
-## Tablero de ClickUp.
+## Tablero de Kanban.
 ![image](./Imagenes/Clickup.png)
 
 ## Prototipo en dibujo
