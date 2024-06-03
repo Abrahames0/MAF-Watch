@@ -19,6 +19,7 @@ Implementar un sistema de análisis del ambiente que monitorice condiciones como
 | 1 |  sqlite  | 3.46.0 | SQL |
 | 2 | Arduino IDE  | 4.1.4 |  IDE |
 | 3 | Node-Red | 3.2.9 | MQTT |
+| 4 |wokwi | web | IDE|
 
 ## Tabla con el hardware utilizado (El costo de cada componente es al dia de 2-3 de junio del 2024).
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
@@ -52,8 +53,9 @@ Implementar un sistema de análisis del ambiente que monitorice condiciones como
 ## Tablero de ClickUp.
 ![image](./Imagenes/Clickup.png)
 
-## Dashbord de Node-Red
-![image](./Imagenes/Node-Red.jpg)
+## Prototipo en dibujo
+
+## Fritzing
 
 ## Librerias Utilizadas.
 - Wire.h
@@ -61,3 +63,6 @@ Implementar un sistema de análisis del ambiente que monitorice condiciones como
 - heartRate.h
 - WiFi.h
 - PubSubClient.h
+
+## Dashbord de Node-Red.
+![image](./Imagenes/Node-Red.jpg)
