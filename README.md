@@ -20,7 +20,7 @@ Proyecto de Dispositivo Inteligente
 | 3 | Node-Red | 3.2.9 | MQTT |
 | 4 | Square line studio | 1.4.1 | IDE |
 
-## Tabla con el hardware utilizado (El costo de cada componente es al dia de 2 de junio del 2024)
+## Tabla con el hardware utilizado (El costo de cada componente es al dia de 2-3 de junio del 2024)
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
 |1|TZT|TZT Módulo de Motor de vibración vibratoria de 5V, de alto y bajo nivel|![image](Imagenes/TZT.jpg)|1|$6,22 MXN|
