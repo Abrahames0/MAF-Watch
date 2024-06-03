@@ -31,3 +31,30 @@ Proyecto de Dispositivo Inteligente
 |6|ESP32|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|![image](./Imagenes/Esp32.jpg)|2|$250.00 MXN|
 |7|Sensor de oximetría|Módulo de Sensor de oximetría de frecuencia cardíaca, Sensor de ritmo cardíaco, consumo de energía ultrabajo. |![image](./Imagenes/Modulo-de-Sensor.jpg)|1|$24,67|
 
+## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
+-Monitorear las condiciones ambientales: esta épica se enfoca en el monitoreo de las condicioens ambientales con el sensor de rayos UV para asi aconsegar al usuario de los altos niveles y recomendarle no salir o usar bloqueador solar.
+
+-Control de calidad del usuario: esta épica se enfoca en el control automático de la calidad del usuario para mantenerlo presentable o referscado, dependiendo de la situacion ya con algunos sensores puede rocearse agua o alguna locion.
+
+-Almacenamiento y analsis de datos: esta épica se enfoca en el almacenamiento y analis de la información recopilada en tiempo real por medio de los sensores. El objetivo es enviar los datos medidos por los sensores a una base de datos y permitir su consumo para el análisis de los datos para entregarlos a forma de resumen al usuario.
+
+## Tabla de historias de usuario
+| Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
+|----|---------------------|-----------|------------|---------------|-------------|
+|  1  | Como usuario quiero que se monitorice en tiempo real la temperatura que tengo para tener información más fiel a la realidad.| 1 | 3 Dias | Se obtiene información fiel en tiempo real através del sensor.| Mario Alberto Rangel Márquez |            |
+|  2  | Como usuario quiero que se monitorice en tiempo real mi ritmo cardiaco que tengo para tener información más fiel a la realidad.| 1 | 3 Dias | Se obtiene información fiel en tiempo real através del sensor.| Abraham Salvador Espinoza Gómez |
+|  3  | Como usuario quiero que se monitorice en tiempo real la luz UV para saber si debo usar bloqueador solar| 1 | 3 Dias | Se obtiene información fiel en tiempo real através del sensor.| Mario Alberto Rangel Márquez |
+|  4  | Como usuario quiero poder rosearme aromas en ciertos momentos.| 5 | 3 Dias | Se obtiene información fiel en tiempo real através del sensor.| Mario Alberto Rangel Márquez | 
+|  5  | Como usuario quiero poder configurar un recordatorio para dormir.| 5 | 3 Dias | Se obtiene información fiel en tiempo real através del sensor.| Mario Alberto Rangel Márquez |  
+|  6  | Como usuario quiero saber la duración de mi sueño para saber si dormi las horas necesarias.| 2 | 3 Dias | Se obtiene información fiel en tiempo real através del sensor.| Fernando Arvizu Sotelo. | 
+|  7  | Como usuario quiero que el dispositivo sea comodo de usar para que no me moleste al dormir.| 3 | 3 Dias | Se obtiene información fiel en tiempo real através del sensor.| Fernando Arvizu Sotelo. | 
+
+## Tablero de ClickUp
+![image](./Imagenes/Clickup.png)
+
+## Librerias Utilizadas
+- Wire.h
+- MAX30105.h
+- heartRate.h
+- WiFi.h
+- PubSubClient.h
