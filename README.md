@@ -43,7 +43,7 @@ Proyecto de Dispositivo Inteligente.
 |1|TZT|TZT Módulo de Motor de vibración vibratoria de 5V, de alto y bajo nivel|![image](Imagenes/TZT.jpg)|1|$6,22 MXN|
 |2|fotoconductora|Resistencia fotoconductora de luz LDR. |![image](/Imagenes/fotorresistencia.jpg)|1|$7,83 MXN|
 |3|Sensor de detección UV|Módulo de Sensor de detección UV, módulo de rayos ultravioleta.|![image](./Imagenes/Modulo-de-Sensor-UV.jpg)|2|$43,32 MXN|
-|4|Pantalla táctil|Pantalla táctil inteligente para Arduino LVGL, módulo TFT LCD RGB de 4,3 pulgadas.|![image](./Imagenes/Pantalla-tactil.jpg)|1|$560,69 MXN|
+|4|Pantalla oled|Módulo de pantalla OLED de 0,96 pulgadas para Arduino, I2C, IIC, 128x64, ss-d-1306, 3,3 V-5V, azul/azul, amarillo/blanco, ESP32.|![image](./Imagenes/Pantalla-tactil.jpg)|1|$60,73 MXN|
 |5|Mini humidificador USB|Mini humidificador USB, Kits de bricolaje, fabricante de niebla y controlador|![image](./Imagenes/Mini-humidificador.jpg)|2|$27,77 MXN|
 |6|ESP32|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|![image](./Imagenes/Esp32.jpg)|2|$250.00 MXN|
 |7|Sensor de oximetría|Módulo de Sensor de oximetría de frecuencia cardíaca, Sensor de ritmo cardíaco, consumo de energía ultrabajo. |![image](./Imagenes/Modulo-de-Sensor.jpg)|1|$24,67|
