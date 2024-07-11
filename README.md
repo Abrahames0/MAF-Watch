@@ -28,14 +28,13 @@ Proyecto de Dispositivo Inteligente.
 <p>
 
 ## Tabla de Software utilizado.
-| Id |Img | Software | Versión | Tipo |
-|----|----|----------|---------|------|
-| 1 | ![image](./Imagenes/posgres.png) | PosgresSql | 16.3 | SQL |
-| 2 | ![image](./Imagenes/Arduino.png) | Arduino IDE  | 4.1.4 |  IDE |
-| 3 | ![image](./Imagenes/node-red-logo.jpg) | Node-Red  | 3.2.9 | MQTT |
-| 4 | ![image](./Imagenes/mosquitto.png) | Mosquito | 2.0.18 | Controlador |
-| 5 | ![image](./Imagenes/flutter.png) | Flutter  | 3.22.2 | framework | 
-
+| Id | Logos | Software | Versión | Tipo |
+|----|--------|----------|---------|------|
+| 1 | <img src="./Imagenes/posgres.png" width="50" height="50"> | PosgresSql | 16.3 | SQL |
+| 2 | <img src="./Imagenes/Arduino.png" width="50" height="50"> | Arduino IDE  | 4.1.4 |  IDE |
+| 3 | <img src="./Imagenes/node-red-logo.jpg" width="50" height="50"> | Node-Red  | 3.2.9 | MQTT |
+| 4 | <img src="./Imagenes/mosquitto.png" width="50" height="50"> | Mosquito | 2.0.18 | Controlador |
+| 5 | <img src="./Imagenes/flutter.png" width="50" height="50"> | Flutter  | 3.22.2 | framework |
 
 ## Tabla con el hardware utilizado (El costo de cada componente es al día de 2-3 de junio del 2024).
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
