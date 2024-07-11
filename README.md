@@ -28,13 +28,13 @@ Proyecto de Dispositivo Inteligente.
 <p>
 
 ## Tabla de Software utilizado.
-| Id | Software | Versión | Tipo |
-|----|----------|---------|------|
-| 1 |  DynamoDb  | WEB | NoSQL |
-| 2 | Arduino IDE  | 4.1.4 |  IDE |
-| 3 | Node-Red | 3.2.9 | MQTT |
-| 4 | AWS | web | Micro services |
-| 5 |React-Native | 0.74.1 | framework | 
+| Id |Img | Software | Versión | Tipo |
+|----|----|----------|---------|------|
+| 1 | ![image](./Imagenes/posgres.png) | PosgresSql | 16.3 | SQL |
+| 2 | ![image](./Imagenes/Arduino.png) | Arduino IDE  | 4.1.4 |  IDE |
+| 3 | ![image](./Imagenes/node-red-logo.jpg) | Node-Red  | 3.2.9 | MQTT |
+| 4 | ![image](./Imagenes/mosquitto.png) | Mosquito | 2.0.18 | Controlador |
+| 5 | ![image](./Imagenes/flutter.png) | Flutter  | 3.22.2 | framework | 
 
 
 ## Tabla con el hardware utilizado (El costo de cada componente es al día de 2-3 de junio del 2024).
@@ -43,12 +43,12 @@ Proyecto de Dispositivo Inteligente.
 |1|TZT|TZT Módulo de Motor de vibración vibratoria de 5V, de alto y bajo nivel|![image](Imagenes/TZT.jpg)|1|$6,22 MXN|
 |2|fotoconductora|Resistencia fotoconductora de luz LDR. |![image](/Imagenes/fotorresistencia.jpg)|1|$7,83 MXN|
 |3|Sensor de detección UV|Módulo de Sensor de detección UV, módulo de rayos ultravioleta.|![image](./Imagenes/Modulo-de-Sensor-UV.jpg)|2|$43,32 MXN|
-|4|Pantalla oled|Módulo de pantalla OLED de 0,96 pulgadas para Arduino, I2C, IIC, 128x64, ss-d-1306, 3,3 V-5V, azul/azul, amarillo/blanco, ESP32.|![image](./Imagenes/Pantalla-oled.jpg)|1|$60,73 MXN|
+|4|Pantalla oled|Módulo de pantalla OLED de 0,96 pulgadas para Arduino, I2C, IIC, 128x64, ss-d-1306, 3,3 V-5V, azul/azul, amarillo/blanco, ESP32.|![image](./Imagenes/pantalla-oled.jpg)|1|$60,73 MXN|
 |5|Mini humidificador USB|Mini humidificador USB, Kits de bricolaje, fabricante de niebla y controlador|![image](./Imagenes/Mini-humidificador.jpg)|2|$27,77 MXN|
 |6|ESP32|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|![image](./Imagenes/Esp32.jpg)|2|$250.00 MXN|
 |7|Sensor de oximetría|Módulo de Sensor de oximetría de frecuencia cardíaca, Sensor de ritmo cardíaco, consumo de energía ultrabajo. |![image](./Imagenes/Modulo-de-Sensor.jpg)|1|$24,67|
 |8|Led Rgb |Diodos LED RGB para Arduino, lámparas de bombilla de circuito PCB. |![image](./Imagenes/led.png)|1|$54,71 |
-|9| Bateria recargable|Batería recargable de polímero de litio,3,7V, 400mAh. |![image](./Imagenes/bateria.png)|1|$138.29|
+|9| Bateria recargable|Batería recargable de polímero de litio,3,7V, 400mAh. |![image](./Imagenes/bateria.jpeg)|1|$138.29|
 
 ## Épicas del proyecto (Mínimo debe de haber una épica por integrante del equipo).
 - <p align="justify"> Monitoreo y adaptación ambiental: Esta épica se centra en el uso continuo de sensores integrados para medir factores ambientales como luz UV, temperatura, ruido y humedad. Con base en esta información, el sistema aconsejará al usuario sobre las medidas de protección a tomar, como la aplicación de bloqueador solar o cambios en la configuración del ambiente. Además, activará automáticamente funciones como la protección contra rayos UV o la humidificación para mantener un entorno óptimo.
