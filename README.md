@@ -7,8 +7,7 @@ Proyecto de Dispositivo Inteligente.
 - Fernando Arvizu Sotelo.
 
 ## Visión del proyecto.
-<p align="justify"> La visión de este producto consiste en brindar para las personas que desean mejorar la calidad de su ambiente de descanso y monitorear su salud en tiempo real, nuestro dispositivo inteligente de monitoreo de ambiente y salud ofrece una solución perfecta. Este sistema integrado de sensores mide luz, temperatura y ritmo cardiaco, y activa automáticamente mecanismos para optimizar el entorno. A diferencia de otros dispositivos que solo monitorean una o dos condiciones ambientales sin capacidad de intervención automática, nuestro producto no solo realiza un monitoreo exhaustivo de múltiples parámetros ambientales y de salud en tiempo real, sino que también toma medidas proactivas para mejorar activamente la calidad del sueño del usuario, asegurando un descanso verdaderamente reparador y una salud óptima.
-<p>
+<p align="justify"> La visión de este producto consiste en proporcionar a los deportistas una herramienta avanzada para mejorar su rendimiento y monitorear su salud en tiempo real. Nuestro guante inteligente para deportistas ofrece una solución integral que mide parámetros cruciales como la luz, temperatura y ritmo cardiaco durante las actividades físicas. A diferencia de otros dispositivos que solo monitorean uno o dos parámetros sin capacidad de intervención automática, nuestro producto no solo realiza un seguimiento exhaustivo de múltiples indicadores de salud y ambiente en tiempo real, sino que también toma medidas proactivas para optimizar las condiciones de entrenamiento y recuperación del deportista. Con este guante, aseguramos una supervisión continua y personalizada, ayudando a los deportistas a alcanzar su máximo potencial y mantener una salud óptima.</p>
 
 ## Objetivo general.
 <p align="justify"> Desarrollar un reloj inteligente equipado con tecnología avanzada para el monitoreo y análisis en tiempo real de las condiciones ambientales y vitales del usuario. Este dispositivo incluirá funcionalidades personalizables, como mini humidificadores integrados para refrescar y aplicar lociones según las necesidades del usuario. Mediante el uso de sensores para la luz, temperatura, ruido y ritmo cardíaco, el reloj ajustará automáticamente la iluminación, la aplicación de lociones y otros mecanismos, como la protección UV, para mejorar el bienestar y la salud del usuario en cualquier ambiente.
@@ -62,16 +61,16 @@ Proyecto de Dispositivo Inteligente.
 ## Tabla de historias de usuario.
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|  1  | Como usuario, quiero que se monitorice en tiempo real la temperatura que tengo para tener información más fiel a la realidad. | 1 | 3 Días | Se obtiene información fiel en tiempo real a través del sensor. | Mario Alberto Rangel Márquez |            |
-|  2  | Como usuario, quiero que se monitorice en tiempo real mi ritmo cardiaco que tengo para tener información más fiel a la realidad. | 1 | 3 Días | Se obtiene información fiel en tiempo real a través del sensor. | Abraham Salvador Espinoza Gómez |
-|  3  | Como usuario, quiero que se monitorice en tiempo real la luz UV para saber si debo usar bloqueador solar | 1 | 3 Días | Se obtiene información fiel en tiempo real a través del sensor. | Mario Alberto Rangel Márquez |
-|  4  | Como usuario, quiero poder rosearme aromas en ciertos momentos. | 5 | 3 Días | Se obtiene información fiel en tiempo real a través del sensor. | Mario Alberto Rangel Márquez. | 
-|  5  | Como usuario, quiero poder configurar un recordatorio para dormir. | 5 | 3 Días | Se obtiene información fiel en tiempo real a través del sensor. | Mario Alberto Rangel Márquez |  
-|  6  | Como usuario quiero saber la duración de mi sueño para saber si dormí las horas necesarias.| 2 | 3 Días | Se obtiene información fiel en tiempo real a través del sensor.| Fernando Arvizu Sotelo. | 
-|  7  | Como usuario quiero que el dispositivo se acomodó de usar para que no me moleste al dormir.| 3 | 3 Días | Se obtiene información fiel en tiempo real a través del sensor. | Fernando Arvizu Sotelo. | 
+| 1 | Como deportista, quiero que se monitorice en tiempo real la temperatura de mi cuerpo durante el ejercicio para tener información precisa sobre mi estado físico. | 1 | 3 Días | Se obtiene información fiel en tiempo real a través del sensor de temperatura. | Mario Alberto Rangel Márquez |
+| 2 | Como deportista, quiero que se monitorice en tiempo real mi ritmo cardiaco durante el ejercicio para tener información precisa sobre mi rendimiento y condición física. | 1 | 3 Días | Se obtiene información fiel en tiempo real a través del sensor de ritmo cardiaco. | Abraham Salvador Espinoza Gómez |
+| 3 | Como deportista, quiero que se monitorice en tiempo real la luz UV durante mis actividades al aire libre para saber si debo usar protección solar. | 1 | 3 Días | Se obtiene información fiel en tiempo real a través del sensor de luz UV. | Mario Alberto Rangel Márquez |
+| 4 | Como deportista, quiero recibir alertas y recomendaciones para optimizar mi rendimiento físico durante el entrenamiento. | 2 | 3 Días | Se reciben alertas y recomendaciones personalizadas basadas en los datos de los sensores. | Mario Alberto Rangel Márquez |
+| 5 | Como deportista, quiero poder configurar recordatorios de hidratación durante mi entrenamiento. | 2 | 3 Días | Se configuran y reciben recordatorios de hidratación basados en los datos de actividad física. | Mario Alberto Rangel Márquez |
+| 6 | Como deportista, quiero saber la duración y calidad de mi rendimineto para asegurarme de que estoy descansando lo suficiente y optimizar mi recuperación. | 3 | 3 Días | Se obtiene información detallada sobre la duración y calidad del sueño a través de los datos de los sensores. | Fernando Arvizu Sotelo |
 
-## Tablero de Kanban.
-![image](./Imagenes/Clickup.png)
+# Tablero de Kanban.
+## Primer Sprint 1.
+![image](./Imagenes/Sprint%201.png)
 
 ## Prototipo en dibujo
 Prototipo para diseño en 3D para imprecion. 
@@ -99,3 +98,9 @@ Prototipo para diseño en 3D para imprecion.
 <p align="justify">
 Los resultados obtenidos hasta el momento han sido satisfactorios. En los primeros tres requisitos, o en el primer Split, se han cumplido las expectativas previstas. Dentro de los primeros dos requisitos se cumplió la funcionalidad de alertar en caso de que el ritmo cardiaco no sea normal en el usuario.
 <p>
+
+## Segundo Sprint 2:
+![image](./Imagenes/Sprint%202.png)
+
+## Tercer Sprint 3:
+![image](./Imagenes/Sprint%203.png)
