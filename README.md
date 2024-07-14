@@ -77,7 +77,7 @@ Prototipo para diseño en 3D para imprecion.
 ![image](./Imagenes/protoripo.png)
 
 ## Arquitectura.
-![image](./Imagenes/Arquitectura.png)
+![image](./Imagenes/Aquitectura-v2.jpg)
 
 ## Circuito diseñado.
 ![image](./Imagenes/version%20(1).jpeg)
