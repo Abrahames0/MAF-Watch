@@ -10,21 +10,17 @@ Proyecto de Dispositivo Inteligente.
 <p align="justify"> La visión de este producto consiste en proporcionar a los deportistas una herramienta avanzada para mejorar su rendimiento y monitorear su salud en tiempo real. Nuestro guante inteligente para deportistas ofrece una solución integral que mide parámetros cruciales como la luz, temperatura y ritmo cardiaco durante las actividades físicas. A diferencia de otros dispositivos que solo monitorean uno o dos parámetros sin capacidad de intervención automática, nuestro producto no solo realiza un seguimiento exhaustivo de múltiples indicadores de salud y ambiente en tiempo real, sino que también toma medidas proactivas para optimizar las condiciones de entrenamiento y recuperación del deportista. Con este guante, aseguramos una supervisión continua y personalizada, ayudando a los deportistas a alcanzar su máximo potencial y mantener una salud óptima.</p>
 
 ## Objetivo general.
-<p align="justify"> Desarrollar un reloj inteligente equipado con tecnología avanzada para el monitoreo y análisis en tiempo real de las condiciones ambientales y vitales del usuario. Este dispositivo incluirá funcionalidades personalizables, como mini humidificadores integrados para refrescar y aplicar lociones según las necesidades del usuario. Mediante el uso de sensores para la luz, temperatura, ruido y ritmo cardíaco, el reloj ajustará automáticamente la iluminación, la aplicación de lociones y otros mecanismos, como la protección UV, para mejorar el bienestar y la salud del usuario en cualquier ambiente.
+<p align="justify">Desarrollar un guante inteligente equipado con tecnología avanzada para el monitoreo y análisis en tiempo real de las condiciones ambientales y vitales del usuario, ideal para deportistas. Este dispositivo incluye sensores para medir la luz, temperatura, ruido y ritmo cardíaco. La información recolectada se muestra en una pantalla OLED e interactúa con una aplicación desarrollada en Flutter. El guante ajusta automáticamente diversos parámetros, como la protección UV, para mejorar el bienestar y la salud del usuario en cualquier ambiente.
 <p>
 
-### Objetivos específicos.
-1. <p align="justify"> Diseñar y desarrollar un sistema integrado de sensores para medir con precisión la luz ambiental, temperatura, niveles de ruido, y ritmo cardíaco, proporcionando una base de datos confiable para el análisis del bienestar del usuario.
-<p>
-
-2. <p align="justify"> Implementar funcionalidades automáticas de confort ambiental utilizando mini humidificadores integrados en el reloj para aplicar agua y lociones personalizadas. Esto se activará según los parámetros ambientales detectados o preferencias preestablecidas del usuario, mejorando su experiencia en diferentes condiciones.
-<p>
-
-3. <p align="justify"> Desarrollar un algoritmo de respuesta inteligente que analice los datos recolectados por los sensores y active automáticamente mecanismos de protección, como filtros UV y ajustes de humedad, para mantener un entorno óptimo para la salud y confort del usuario.
-<p>
-
-4. <p align="justify"> Crear una interfaz de usuario intuitiva en la pantalla táctil del reloj que permita a los usuarios visualizar y gestionar las mediciones en tiempo real, así como ajustar manualmente las configuraciones del dispositivo según sus necesidades personales.
-<p>
+<p align="justify"> Diseñar y desarrollar un sistema integrado de sensores para medir con precisión la luz ambiental, temperatura, niveles de ruido, y ritmo cardíaco, proporcionando una base de datos confiable para el análisis del bienestar del usuario.
+</p>
+<p align="justify"> Implementar funcionalidades automáticas de confort ambiental ajustando la iluminación, aplicando mecanismos de protección UV y optimizando la temperatura según los parámetros ambientales detectados o preferencias preestablecidas del usuario, mejorando su experiencia en diferentes condiciones.
+</p>
+<p align="justify"> Desarrollar un algoritmo de respuesta inteligente que analice los datos recolectados por los sensores y active automáticamente mecanismos de protección y confort, como ajustes de iluminación y protección UV, para mantener un entorno óptimo para la salud y confort del usuario.
+</p>
+<p align="justify"> Crear una interfaz de usuario intuitiva en la pantalla OLED del guante y en una aplicación móvil desarrollada en Flutter que permita a los usuarios visualizar y gestionar las mediciones en tiempo real, así como ajustar manualmente las configuraciones del dispositivo y controlar algunos de los sensores según sus necesidades personales.
+</p>
 
 ## Tabla de Software utilizado.
 | Id | Logos | Software | Versión | Tipo |
