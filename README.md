@@ -81,9 +81,9 @@ Prototipo para diseño en 3D para imprecion.
 ![image](./Imagenes/Arquitectura.png)
 
 ## Circuito diseñado.
-![image](./Imagenes/frizing.jpg)
-![image](./Imagenes/frizingg.jpg)
-![image](./Imagenes/frizinggg.jpg)
+![image](./Imagenes/version%(1).jpeg)
+![image](./Imagenes/version%(2).jpeg)
+![image](./Imagenes/version%(3).jpeg)
 
 ## Librerias Utilizadas.
 - Wire.h
