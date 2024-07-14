@@ -46,7 +46,7 @@ Proyecto de Dispositivo Inteligente.
 |9| Bateria recargable|Batería recargable de polímero de litio,3,7V, 400mAh. |![image](./Imagenes/bateria.jpeg)|1|$138.29|
 |10| Juego de cables Dupont | Juego de Cables Dupont Macho a Hembra de 20 cm para Arduino Raspberry Pi 2/3 (90 Unidades) | ![image](./Imagenes/cables.jpg) | 1 |$89.00 MXN |
 |11| DEWALT - Guante de trabajo unisex para adultos, grande | Guante de trabajo unisex para adultos, tamaño grande. | ![image](./Imagenes/gauntes.jpg) |1|$70 MXN |
-|12| Juego de resistencias de película metálica | Kit surtido de resistencias de 1/4W, 600, 10 - 1M Ohm, paquete de resistencia, 30 valores cada uno, 20 piezas, 1% unidades por lote | ![image](./Imagenes/S1a60a1236876483f881b16aafabdbb013.jpg_640x640Q90.jpg_) |1|36,5 MXN |
+|12| Juego de resistencias de película metálica | Kit surtido de resistencias de 1/4W, 600, 10 - 1M Ohm, paquete de resistencia, 30 valores cada uno, 20 piezas, 1% unidades por lote | ![image](./Imagenes/resistencias_) |1|36,5 MXN |
 
 
 ## Épicas del proyecto (Mínimo debe de haber una épica por integrante del equipo).
