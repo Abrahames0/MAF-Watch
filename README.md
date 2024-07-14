@@ -39,14 +39,13 @@ Proyecto de Dispositivo Inteligente.
 |2|fotoconductora|Resistencia fotoconductora de luz LDR. |![image](/Imagenes/fotorresistencia.jpg)|1|$7,83 MXN|
 |3|Sensor de detección UV|Módulo de Sensor de detección UV, módulo de rayos ultravioleta.|![image](./Imagenes/Modulo-de-Sensor-UV.jpg)|2|$43,32 MXN|
 |4|Pantalla oled|Módulo de pantalla OLED de 0,96 pulgadas para Arduino, I2C, IIC, 128x64, ss-d-1306, 3,3 V-5V, azul/azul, amarillo/blanco, ESP32.|![image](./Imagenes/pantalla-oled.jpg)|1|$60,73 MXN|
-|5|Mini humidificador USB|Mini humidificador USB, Kits de bricolaje, fabricante de niebla y controlador|![image](./Imagenes/Mini-humidificador.jpg)|2|$27,77 MXN|
-|6|ESP32|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|![image](./Imagenes/Esp32.jpg)|2|$250.00 MXN|
-|7|Sensor de oximetría|Módulo de Sensor de oximetría de frecuencia cardíaca, Sensor de ritmo cardíaco, consumo de energía ultrabajo. |![image](./Imagenes/Modulo-de-Sensor.jpg)|1|$24,67|
-|8|Led Rgb |Diodos LED RGB para Arduino, lámparas de bombilla de circuito PCB. |![image](./Imagenes/led.png)|1|$54,71 |
-|9| Bateria recargable|Batería recargable de polímero de litio,3,7V, 400mAh. |![image](./Imagenes/bateria.jpeg)|1|$138.29|
-|10| Juego de cables Dupont | Juego de Cables Dupont Macho a Hembra de 20 cm para Arduino Raspberry Pi 2/3 (90 Unidades) | ![image](./Imagenes/cables.jpg) | 1 |$89.00 MXN |
-|11| DEWALT - Guante de trabajo unisex para adultos, grande | Guante de trabajo unisex para adultos, tamaño grande. | ![image](./Imagenes/gauntes.jpg) |1|$70 MXN |
-|12| Juego de resistencias de película metálica | Kit surtido de resistencias de 1/4W, 600, 10 - 1M Ohm, paquete de resistencia, 30 valores cada uno, 20 piezas, 1% unidades por lote | ![image](./Imagenes/resitencias.jpg) |1|36,5 MXN |
+|5|ESP32|ESP32 es la denominación de una familia de chips SoC de bajo coste y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrada.|![image](./Imagenes/Esp32.jpg)|2|$250.00 MXN|
+|6|Sensor de oximetría|Módulo de Sensor de oximetría de frecuencia cardíaca, Sensor de ritmo cardíaco, consumo de energía ultrabajo. |![image](./Imagenes/Modulo-de-Sensor.jpg)|1|$24,67|
+|7|Led Rgb |Diodos LED RGB para Arduino, lámparas de bombilla de circuito PCB. |![image](./Imagenes/led.png)|1|$54,71 |
+|8| Bateria recargable|Batería recargable de polímero de litio,3,7V, 400mAh. |![image](./Imagenes/bateria.jpeg)|1|$138.29|
+|9| Juego de cables Dupont | Juego de Cables Dupont Macho a Hembra de 20 cm para Arduino Raspberry Pi 2/3 (90 Unidades) | ![image](./Imagenes/cables.jpg) | 1 |$89.00 MXN |
+|10| DEWALT - Guante de trabajo unisex para adultos, grande | Guante de trabajo unisex para adultos, tamaño grande. | ![image](./Imagenes/gauntes.jpg) |1|$70 MXN |
+|11| Juego de resistencias de película metálica | Kit surtido de resistencias de 1/4W, 600, 10 - 1M Ohm, paquete de resistencia, 30 valores cada uno, 20 piezas, 1% unidades por lote | ![image](./Imagenes/resitencias.jpg) |1|36,5 MXN |
 
 
 ## Épicas del proyecto (Mínimo debe de haber una épica por integrante del equipo).
@@ -81,9 +80,9 @@ Prototipo para diseño en 3D para imprecion.
 ![image](./Imagenes/Arquitectura.png)
 
 ## Circuito diseñado.
-![image](./Imagenes/version%(1).jpeg)
-![image](./Imagenes/version%(2).jpeg)
-![image](./Imagenes/version%(3).jpeg)
+![image](./Imagenes/versión%(1).jpeg)
+![image](./Imagenes/versión%(2).jpeg)
+![image](./Imagenes/versión%(3).jpeg)
 
 ## Librerias Utilizadas.
 - Wire.h
