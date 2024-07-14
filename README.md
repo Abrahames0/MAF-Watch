@@ -80,9 +80,9 @@ Prototipo para diseño en 3D para imprecion.
 ![image](./Imagenes/Arquitectura.png)
 
 ## Circuito diseñado.
-![image](./Imagenes/versión%(1).jpeg)
-![image](./Imagenes/versión%(2).jpeg)
-![image](./Imagenes/versión%(3).jpeg)
+![image](./Imagenes/version%(1).jpeg)
+![image](./Imagenes/version%(2).jpeg)
+![image](./Imagenes/version%(3).jpeg)
 
 ## Librerias Utilizadas.
 - Wire.h
