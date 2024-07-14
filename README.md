@@ -31,6 +31,7 @@ Proyecto de Dispositivo Inteligente.
 | 3 | <img src="./Imagenes/node-red-logo.jpg" width="50" height="50"> | Node-Red  | 3.2.9 | MQTT |
 | 4 | <img src="./Imagenes/mosquitto.png" width="50" height="50"> | Mosquito | 2.0.18 | Controlador |
 | 5 | <img src="./Imagenes/flutter.png" width="50" height="50"> | Flutter  | 3.22.2 | framework |
+| 6 | <img src="./Imagenes/firebase.png" width="50" height="50"> | Firebase  | 12.1.0 | framework |
 
 ## Tabla con el hardware utilizado (El costo de cada componente es al día de 2-3 de junio del 2024).
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
