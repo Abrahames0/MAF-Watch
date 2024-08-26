@@ -149,4 +149,4 @@ Menu de la OLED:
 ![image](./Imagenes/Prototipo/carta.jpg)
 
 ## Video de funcionamineto
-</a href="">
+</a href="https://youtu.be/eaOdJXF4MHI">
