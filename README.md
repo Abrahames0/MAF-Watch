@@ -73,8 +73,11 @@ Proyecto de Dispositivo Inteligente.
 ![image](./Imagenes/Sprint%201.png)
 
 ## Prototipo en dibujo
+Dibujo del prototipo
+![image](./Imagenes/modelo-dibujo.jpeg)
+
 Prototipo para diseño en 3D para imprecion. 
-![image](./Imagenes/modelo.jpeg)
+![image](./Imagenes/3d.jpeg)
 
 ## Arquitectura.
 ![image](./Imagenes/Aquitectura-v2.jpg)
