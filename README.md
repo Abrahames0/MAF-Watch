@@ -44,8 +44,7 @@ Proyecto de Dispositivo Inteligente.
 |7|Led Rgb |Diodos LED RGB para Arduino, lámparas de bombilla de circuito PCB. |![image](./Imagenes/led.png)|1|$54,71 |
 |8| Bateria recargable|Batería recargable de polímero de litio,3,7V, 400mAh. |![image](./Imagenes/bateria.jpeg)|1|$138.29|
 |9| Juego de cables Dupont | Juego de Cables Dupont Macho a Hembra de 20 cm para Arduino Raspberry Pi 2/3 (90 Unidades) | ![image](./Imagenes/cables.jpg) | 1 |$89.00 MXN |
-|10| DEWALT - Guante de trabajo unisex para adultos, grande | Guante de trabajo unisex para adultos, tamaño grande. | ![image](./Imagenes/gauntes.jpg) |1|$70 MXN |
-|11| Juego de resistencias de película metálica | Kit surtido de resistencias de 1/4W, 600, 10 - 1M Ohm, paquete de resistencia, 30 valores cada uno, 20 piezas, 1% unidades por lote | ![image](./Imagenes/resitencias.jpg) |1|36,5 MXN |
+|10| Juego de resistencias de película metálica | Kit surtido de resistencias de 1/4W, 600, 10 - 1M Ohm, paquete de resistencia, 30 valores cada uno, 20 piezas, 1% unidades por lote | ![image](./Imagenes/resitencias.jpg) |1|36,5 MXN |
 
 
 ## Épicas del proyecto (Mínimo debe de haber una épica por integrante del equipo).
@@ -72,6 +71,12 @@ Proyecto de Dispositivo Inteligente.
 ## Primer Sprint 1.
 ![image](./Imagenes/Sprint%201.png)
 
+## Segundo Sprint 2:
+![image](./Imagenes/Sprint%202.png)
+
+## Tercer Sprint 3:
+![image](./Imagenes/Sprint%203.png)
+
 ## Prototipo en dibujo
 Dibujo del prototipo
 
@@ -96,19 +101,10 @@ Prototipo para diseño en 3D para imprecion.
 - WiFi.h
 - PubSubClient.h
 
-## Dashboard de Node-Red.
-![image](./Imagenes/Node-Red.jpg)
-
 ## Resultado.
 <p align="justify">
 Los resultados obtenidos hasta el momento han sido satisfactorios. En los primeros tres requisitos, o en el primer Split, se han cumplido las expectativas previstas. Dentro de los primeros dos requisitos se cumplió la funcionalidad de alertar en caso de que el ritmo cardiaco no sea normal en el usuario.
 <p>
-
-## Segundo Sprint 2:
-![image](./Imagenes/Sprint%202.png)
-
-## Tercer Sprint 3:
-![image](./Imagenes/Sprint%203.png)
 
 ## Pantallas de flutter.
 
@@ -142,7 +138,9 @@ Menu de la OLED:
 ### Carpeta `menu`
 - [boot.py](Codigo-Thonny/menu/boot.py)
 
-### Imagenes del Prototipo
- 
-
 ## Evidencias fotograficas
+![image](./Imagenes/Prototipo/Imagennn.jpg)
+
+![image](./Imagenes/Prototipo/Imagennnn.jpg)
+
+![image](./Imagenes/Prototipo/Imagennnnn.jpg)
