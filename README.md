@@ -144,3 +144,9 @@ Menu de la OLED:
 ![image](./Imagenes/Prototipo/Imagennnn.jpg)
 
 ![image](./Imagenes/Prototipo/Imagennnnn.jpg)
+
+## Carta de Agradecimineto
+![image](./Imagenes/Prototipo/carta.jpg)
+
+## Video de funcionamineto
+</a href="">
