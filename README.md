@@ -7,11 +7,10 @@ Proyecto de Dispositivo Inteligente.
 - Fernando Arvizu Sotelo.
 
 ## Visión del proyecto.
-<p align="justify"> La visión de este producto consiste en proporcionar a los deportistas una herramienta avanzada para mejorar su rendimiento y monitorear su salud en tiempo real. Nuestro guante inteligente para deportistas ofrece una solución integral que mide parámetros cruciales como la luz, temperatura y ritmo cardiaco durante las actividades físicas. A diferencia de otros dispositivos que solo monitorean uno o dos parámetros sin capacidad de intervención automática, nuestro producto no solo realiza un seguimiento exhaustivo de múltiples indicadores de salud y ambiente en tiempo real, sino que también toma medidas proactivas para optimizar las condiciones de entrenamiento y recuperación del deportista. Con este guante, aseguramos una supervisión continua y personalizada, ayudando a los deportistas a alcanzar su máximo potencial y mantener una salud óptima.</p>
+<p align="justify"> La visión de este producto consiste en proporcionar a los usuarios una herramienta avanzada para mejorar su bienestar y monitorear su salud en tiempo real. Nuestro dispositivo portátil ofrece una solución integral que mide parámetros cruciales como la luz, temperatura y ritmo cardiaco durante las actividades diarias. A diferencia de otros dispositivos que solo monitorean uno o dos parámetros sin capacidad de intervención automática, nuestro producto no solo realiza un seguimiento exhaustivo de múltiples indicadores de salud y ambiente en tiempo real, sino que también toma medidas proactivas para optimizar las condiciones de bienestar del usuario. Con este wearable, aseguramos una supervisión continua y personalizada, ayudando a los usuarios a mantener una salud óptima y mejorar su calidad de vida.</p>
 
 ## Objetivo general.
-<p align="justify">Desarrollar un guante inteligente equipado con tecnología avanzada para el monitoreo y análisis en tiempo real de las condiciones ambientales y vitales del usuario, ideal para deportistas. Este dispositivo incluye sensores para medir la luz, temperatura, ruido y ritmo cardíaco. La información recolectada se muestra en una pantalla OLED e interactúa con una aplicación desarrollada en Flutter. El guante ajusta automáticamente diversos parámetros, como la protección UV, para mejorar el bienestar y la salud del usuario en cualquier ambiente.
-<p>
+<p align="justify">Desarrollar un dispositivo portátil equipado con tecnología avanzada para el monitoreo y análisis en tiempo real de las condiciones ambientales y vitales del usuario, ideal para cualquier persona, no solo para deportistas. Este wearable incluye sensores para medir la luz, temperatura, ruido y ritmo cardíaco. La información recolectada se muestra en una pantalla OLED e interactúa con una aplicación desarrollada en Flutter. El dispositivo ajusta automáticamente diversos parámetros, como la protección UV, para mejorar el bienestar y la salud del usuario en cualquier ambiente.</p>
 
 ### Objetivos específicos.
 1. <p align="justify">Diseñar y desarrollar un sistema integrado de sensores para medir con precisión la luz ambiental, temperatura, niveles de ruido y ritmo cardíaco, proporcionando una base de datos confiable para el análisis del bienestar del usuario.</p>
@@ -20,14 +19,14 @@ Proyecto de Dispositivo Inteligente.
 
 3. <p align="justify">Desarrollar un algoritmo de respuesta inteligente que analice los datos recolectados por los sensores y active automáticamente mecanismos de protección y confort, como ajustes de iluminación y protección UV, para mantener un entorno óptimo para la salud y comodidad del usuario.</p>
 
-4. <p align="justify">Crear una interfaz de usuario intuitiva en la pantalla OLED del guante y en una aplicación móvil desarrollada en Flutter que permita a los usuarios visualizar y gestionar las mediciones en tiempo real, así como ajustar manualmente las configuraciones del dispositivo y controlar algunos de los sensores según sus necesidades.</p>
+4. <p align="justify">Crear una interfaz de usuario intuitiva en la pantalla OLED del dispositivo portátil y en una aplicación móvil desarrollada en Flutter, que permita a los usuarios visualizar y gestionar las mediciones en tiempo real, ajustar manualmente las configuraciones del dispositivo, controlar algunos de los sensores según sus necesidades, y manipular directamente la pantalla OLED para personalizar la visualización y las funciones del dispositivo.</p>
 
 
 ## Tabla de Software utilizado.
 | Id | Logos | Software | Versión | Tipo |
 |----|--------|----------|---------|------|
-| 1 | <img src="./Imagenes/posgres.png" width="50" height="50"> | PosgresSql | 16.3 | SQL |
-| 2 | <img src="./Imagenes/Arduino.png" width="50" height="50"> | Arduino IDE  | 4.1.4 |  IDE |
+| 1 | <img src="./Imagenes/mariadb_logo.png" width="50" height="50"> | MariaDB | 11.6.2 | SQL |
+| 2 | <img src="./Imagenes/Thonny_logo.png" width="50" height="50"> | Thonny | 4.1.4 |  IDE |
 | 3 | <img src="./Imagenes/node-red-logo.jpg" width="50" height="50"> | Node-Red  | 3.2.9 | MQTT |
 | 4 | <img src="./Imagenes/mosquitto.png" width="50" height="50"> | Mosquito | 2.0.18 | Controlador |
 | 5 | <img src="./Imagenes/flutter.png" width="50" height="50"> | Flutter  | 3.22.2 | framework |
