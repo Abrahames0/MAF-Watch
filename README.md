@@ -119,10 +119,25 @@ Los resultados obtenidos hasta el momento han sido satisfactorios. En los primer
 ![image](./Imagenes/flut-3.jpeg)
 
 ## Codigo fuente de flutter 
-
+[Proyecto MAF-WEARABLE](https://github.com/fernandofchr/MAF-WEARABLE/tree/main)
 
 ## Codigo fuente de MAF-WATCH
 
+Este repositorio contiene código organizado en diferentes carpetas para varios módulos. A continuación, se detalla la estructura del proyecto con enlaces a los archivos:
+
+### Carpeta `boot`
+- [prueba_ldr.py](Codigo-Thonny/boot/prueba_ldr.py)
+- [prueba_rpm.py](Codigo-Thonny/boot/prueba_rpm.py)
+- [prueba_uv.py](Codigo-Thonny/boot/prueba_uv.py)
+
+### Carpeta `librerias`
+- [circular_buffer.py](Codigo-Thonny/librerias/circular_buffer.py)
+- [max30102.py](Codigo-Thonny/librerias/max30102.py)
+- [simple.py](Codigo-Thonny/librerias/simple.py)
+- [ssd1306.py](Codigo-Thonny/librerias/ssd1306.py)
+
+### Carpeta `menu`
+- [boot.py](Codigo-Thonny/menu/boot.py)
 
 ### Imagenes del Prototipo
  
