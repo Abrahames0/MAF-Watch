@@ -74,7 +74,7 @@ Proyecto de Dispositivo Inteligente.
 
 ## Prototipo en dibujo
 Prototipo para diseño en 3D para imprecion. 
-![image](./Imagenes/protoripo.png)
+![image](./Imagenes/modelo.jpeg)
 
 ## Arquitectura.
 ![image](./Imagenes/Aquitectura-v2.jpg)
@@ -104,3 +104,22 @@ Los resultados obtenidos hasta el momento han sido satisfactorios. En los primer
 
 ## Tercer Sprint 3:
 ![image](./Imagenes/Sprint%203.png)
+
+## Pantallas de flutter.
+
+![image](./Imagenes/flut-1.jpeg)
+
+![image](./Imagenes/flut-2.jpeg)
+
+![image](./Imagenes/flut-3.jpeg)
+
+### Codigo fuente de flutter 
+
+
+## Codigo fuente de MAF-WATCH
+
+
+### Imagenes del Prototipo
+ 
+
+## Evidencias fotograficas
