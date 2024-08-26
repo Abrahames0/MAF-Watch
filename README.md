@@ -126,16 +126,19 @@ Los resultados obtenidos hasta el momento han sido satisfactorios. En los primer
 Este repositorio contiene código organizado en diferentes carpetas para varios módulos. A continuación, se detalla la estructura del proyecto con enlaces a los archivos:
 
 ### Carpeta `boot`
+Pruebas para cada uno de los sensores:
 - [prueba_ldr.py](Codigo-Thonny/boot/prueba_ldr.py)
 - [prueba_rpm.py](Codigo-Thonny/boot/prueba_rpm.py)
 - [prueba_uv.py](Codigo-Thonny/boot/prueba_uv.py)
 
+Librerias usadas en el proyecto:
 ### Carpeta `librerias`
 - [circular_buffer.py](Codigo-Thonny/librerias/circular_buffer.py)
 - [max30102.py](Codigo-Thonny/librerias/max30102.py)
 - [simple.py](Codigo-Thonny/librerias/simple.py)
 - [ssd1306.py](Codigo-Thonny/librerias/ssd1306.py)
 
+Menu de la OLED:
 ### Carpeta `menu`
 - [boot.py](Codigo-Thonny/menu/boot.py)
 
