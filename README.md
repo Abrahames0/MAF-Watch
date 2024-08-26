@@ -74,9 +74,11 @@ Proyecto de Dispositivo Inteligente.
 
 ## Prototipo en dibujo
 Dibujo del prototipo
+
 ![image](./Imagenes/modelo-dibujo.jpeg)
 
-Prototipo para diseño en 3D para imprecion. 
+Prototipo para diseño en 3D para imprecion.
+
 ![image](./Imagenes/3d.jpeg)
 
 ## Arquitectura.
