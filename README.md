@@ -153,8 +153,12 @@ Menu de la OLED:
   <img src="https://img.youtube.com/vi/eaOdJXF4MHI/maxresdefault.jpg" alt="Ver video" style="width:50%; height:auto;">
 </a>
 
-## Carta de Agradecimineto
-<img src="./Imagenes/Prototipo/carta.jpg" width="50%" height="50%">
+## Carta de Agradecimiento
+
+[![Previsualización del PDF](./Imagenes/Prototipo/carta.jpg)](./Imagenes/Prototipo/Carta%20chicos%20de%20Ing.pdf)
+
+[Ver documento PDF](./Imagenes/Prototipo/Carta%20chicos%20de%20Ing.pdf)
+
 
 ## Video de aprobación y sugerencias
 <a href="https://youtu.be/ju_vEJds4Oo">
