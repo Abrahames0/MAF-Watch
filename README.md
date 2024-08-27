@@ -148,5 +148,12 @@ Menu de la OLED:
 ## Carta de Agradecimineto
 ![image](./Imagenes/Prototipo/carta.jpg)
 
-## Video de funcionamineto
-<a href="https://youtu.be/eaOdJXF4MHI">Ver video</a>
+## Video de aprobación y sugerencias
+<a href="https://youtu.be/ju_vEJds4Oo">
+  <img src="https://img.youtube.com/vi/ju_vEJds4Oo/maxresdefault.jpg" alt="Ver video" style="width:50%; height:auto;">
+</a>
+
+## Video de funcionamiento
+<a href="https://www.youtube.com/watch?v=eaOdJXF4MHI">
+  <img src="https://img.youtube.com/vi/eaOdJXF4MHI/maxresdefault.jpg" alt="Ver video" style="width:50%; height:auto;">
+</a>
