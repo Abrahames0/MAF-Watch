@@ -148,15 +148,15 @@ Menu de la OLED:
 
 <img src="./Imagenes/Prototipo/Imagennnnn.jpg" width="50%" height="50%">
 
+## Video de funcionamiento
+<a href="https://www.youtube.com/watch?v=eaOdJXF4MHI">
+  <img src="https://img.youtube.com/vi/eaOdJXF4MHI/maxresdefault.jpg" alt="Ver video" style="width:50%; height:auto;">
+</a>
+
 ## Carta de Agradecimineto
 <img src="./Imagenes/Prototipo/carta.jpg" width="50%" height="50%">
 
 ## Video de aprobación y sugerencias
 <a href="https://youtu.be/ju_vEJds4Oo">
   <img src="https://img.youtube.com/vi/ju_vEJds4Oo/maxresdefault.jpg" alt="Ver video" style="width:50%; height:auto;">
-</a>
-
-## Video de funcionamiento
-<a href="https://www.youtube.com/watch?v=eaOdJXF4MHI">
-  <img src="https://img.youtube.com/vi/eaOdJXF4MHI/maxresdefault.jpg" alt="Ver video" style="width:50%; height:auto;">
 </a>
