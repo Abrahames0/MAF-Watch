@@ -69,13 +69,14 @@ Proyecto de Dispositivo Inteligente.
 
 # Tablero de Kanban.
 ## Primer Sprint 1.
-![image](./Imagenes/Sprint%201.png)
+<img src="./Imagenes/Sprint%201.png" width="50%" height="50%">
 
 ## Segundo Sprint 2:
-![image](./Imagenes/Sprint%202.png)
+<img src="./Imagenes/Sprint%202.png" width="50%" height="50%">
 
 ## Tercer Sprint 3:
-![image](./Imagenes/Sprint%203.png)
+<img src="./Imagenes/Sprint%203.png" width="50%" height="50%">
+
 
 ## Prototipo en dibujo
 Dibujo del prototipo
@@ -84,15 +85,17 @@ Dibujo del prototipo
 
 Prototipo para diseño en 3D para imprecion.
 
-![image](./Imagenes/3d.jpeg)
+<img src="./Imagenes/3d.jpeg" width="50%" height="50%">
 
 ## Arquitectura.
-![image](./Imagenes/Aquitectura-v2.jpg)
+<img src="./Imagenes/Aquitectura-v2.jpg" width="50%" height="50%">
 
 ## Circuito diseñado.
-![image](./Imagenes/version%20(1).jpeg)
-![image](./Imagenes/version%20(2).jpeg)
-![image](./Imagenes/version%20(3).jpeg)
+<img src="./Imagenes/version%20(1).jpeg" width="50%" height="50%">
+
+<img src="./Imagenes/version%20(2).jpeg" width="50%" height="50%">
+
+<img src="./Imagenes/version%20(3).jpeg" width="50%" height="50%">
 
 ## Librerias Utilizadas.
 - Wire.h
@@ -139,14 +142,14 @@ Menu de la OLED:
 - [boot.py](Codigo-Thonny/menu/boot.py)
 
 ## Evidencias fotograficas
-![image](./Imagenes/Prototipo/Imagennn.jpg)
+<img src="./Imagenes/Prototipo/Imagennn.jpg" width="50%" height="50%">
 
-![image](./Imagenes/Prototipo/Imagennnn.jpg)
+<img src="./Imagenes/Prototipo/Imagennnn.jpg" width="50%" height="50%">
 
-![image](./Imagenes/Prototipo/Imagennnnn.jpg)
+<img src="./Imagenes/Prototipo/Imagennnnn.jpg" width="50%" height="50%">
 
 ## Carta de Agradecimineto
-![image](./Imagenes/Prototipo/carta.jpg)
+<img src="./Imagenes/Prototipo/carta.jpg" width="50%" height="50%">
 
 ## Video de aprobación y sugerencias
 <a href="https://youtu.be/ju_vEJds4Oo">
